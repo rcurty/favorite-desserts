@@ -1,3 +1,3 @@
 # favorite-desserts
-Repro Lab exercise
+GitHub 4 everyone
 - Renata, ice cream
